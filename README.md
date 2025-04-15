@@ -24,3 +24,13 @@ It demonstrates how to embed video and audio elements in an HTML page without th
 The project has passed the [W3C Markup Validation Service](https://validator.w3.org/).
 
 A screenshot of the validation report (with no errors or warnings) is included in the `/screenshots` folder.
+
+## Optional: Accessibility Check ✅
+
+An accessibility check was performed using Chrome Developer Tools (Lighthouse).  
+The result: **100% Accessibility Score** 🎉
+
+➡️ The screenshot of the report can be found in the `screenshots/` folder.  
+Filename: `accessibility-score.png`
+![Accessibility Score Screenshot](screenshots/accessibility-score.png)
+
