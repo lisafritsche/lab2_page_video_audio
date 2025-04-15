@@ -34,3 +34,8 @@ The result: **100% Accessibility Score** 🎉
 Filename: `accessibility-score.png`
 ![Accessibility Score Screenshot](screenshots/accessibility-score.png)
 
+## 🧩 Part 2 – Scavenger Hunt
+
+In Part 2 of this lab, I used browser Developer Tools (DevTools) to uncover hidden passcodes embedded in the HTML and CSS of the Lab 2 Scavenger Hunt website.
+By inspecting elements, source files, and styles, I successfully found and recorded all required passcodes.
+These codes have been included in the repository as part of the submission.
